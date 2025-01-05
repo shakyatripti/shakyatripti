@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I am a **Software Engineer** at **Optum**, passion
 - **Web Development**: Angular, Node.js, HTML, CSS
 
 ## 📫 How to Reach Me:
-- [LinkedIn](linkedin.com/in/shakya-tripti-422134207)
-- [Mail](shakyatripti1308@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shakya-tripti-422134207/)
+- [Mail](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNpzvFpxgqHRTlNKCrtZXhmRsWPPPlcqLJsndLVfjNjCvwwMcfnbxhgNGZgDZMXjndsVV)
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and learning new things!
 
