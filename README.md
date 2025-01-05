@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Shakya Tripti
 
-<!--
-**shakyatripti/shakyatripti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a **Software Engineer** at **Optum**, passionate about developing scalable solutions. I graduated from **SRM University**, and I love learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On:
+- Building and maintaining **web applications** for healthcare solutions at **Optum**.
+- Learning new technologies and improving problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies:
+- **Languages**: Java, JavaScript, C++
+- **Web Development**: Angular, Node.js, HTML, CSS
+
+## 📫 How to Reach Me:
+- [LinkedIn](linkedin.com/in/shakya-tripti-422134207)
+- [Mail](shakyatripti1308@gmail.com)
+
+Feel free to explore my repositories and projects. I'm always open to collaboration and learning new things!
+
+
